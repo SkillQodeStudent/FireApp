@@ -1,0 +1,39 @@
+{
+    "project_info": {
+        "project_number": "643327703599",
+        "project_id": "todo-app-7f9f3",
+        "storage_bucket": "todo-app-7f9f3.appspot.com"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:643327703599:android:0e7d4d8c82fa1e5f9aa4da",
+            "android_client_info": {
+                "package_name": "skillCode.app.fireapp"
+            }
+        },
+        "oauth_client": [{
+            "client_id": "643327703599-20gbnpn50ip7kts191cgmmibo1gujnpl.apps.googleusercontent.com",
+            "client_type": 3
+        }],
+        "api_key": [{
+            "current_key": "AIzaSyAfl9nCea8yHbvbG3suDADii33R4pFn1DU"
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": [{
+                        "client_id": "643327703599-20gbnpn50ip7kts191cgmmibo1gujnpl.apps.googleusercontent.com",
+                        "client_type": 3
+                    },
+                    {
+                        "client_id": "643327703599-qr8f7k8rqu5ovr4etl3sp2tdm2iau63n.apps.googleusercontent.com",
+                        "client_type": 2,
+                        "ios_info": {
+                            "bundle_id": "skillCode.app.fireapp"
+                        }
+                    }
+                ]
+            }
+        }
+    }],
+    "configuration_version": "1"
+}
